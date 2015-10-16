@@ -113,7 +113,7 @@ i {
 .day__low {
   color: rgba(255, 255, 255, 0.4);
 }
-.main {
+main {
   opacity: 1;
   transition: opacity 0.2s ease-in;
 }
